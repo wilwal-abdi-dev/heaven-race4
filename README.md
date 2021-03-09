@@ -14,3 +14,8 @@ Muhidin Abdi
 * Bootstrap
 * Javascript
 * Jquery
+*
+## License:
+
+MIT LICENSE &copy; 2021 Muhidin Abdi
+
