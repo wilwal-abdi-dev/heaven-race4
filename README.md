@@ -14,7 +14,6 @@ Muhidin Abdi
 * Bootstrap
 * Javascript
 * Jquery
-* 
 *
 ## License:
 
