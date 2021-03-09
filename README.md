@@ -2,3 +2,7 @@
 
 Description: 
 A pizza ordering web application.
+
+## Author:
+
+Muhidin Abdi
