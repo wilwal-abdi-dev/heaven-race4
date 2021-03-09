@@ -178,6 +178,7 @@ $(function () {
                         }
                         break;
                 }
+                
                 break;
             case flavour = "boerewors":
                 switch (size) {
