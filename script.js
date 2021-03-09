@@ -138,7 +138,6 @@ $(function () {
                         }
                         break;
                 }
-                
                 break;
             case flavour = "bbq":
                 switch (size) {
