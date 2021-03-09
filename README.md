@@ -17,5 +17,5 @@ Muhudin Abdi
 *
 ## License:
 
-MIT LICENSE &copy; 2021 Muhidin Abdi
+MIT LICENSE &copy; 2021 Muhudin Abdi
 
