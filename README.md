@@ -5,7 +5,7 @@ A pizza ordering web application.
 
 ## Author:
 
-Muhidin Abdi
+Muhudin Abdi
 
 ## Technologies:
 
